@@ -19,7 +19,9 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "devDependencies": {
-    "babelify": "^7.2.0"
+    "babel-polyfill": "^6.5.0",
+    "babelify": "^7.2.0",
+    "eslint":"^2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
